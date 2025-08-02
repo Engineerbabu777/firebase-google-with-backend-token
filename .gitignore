@@ -42,11 +42,17 @@ app-example
 
 ./google-services.json
 .google-services.json
-
-
+google-services.json
+google-services.json
+GoogleService-Info.plist
 *.env.local
 .env.local
 /node_modules 
 /server/node_modules
 ./server/node_modules
 server/serviceAccountKey.json.json
+
+
+# Firebase config files
+google-services.json
+GoogleService-Info.plist
